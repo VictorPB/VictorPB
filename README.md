@@ -1,16 +1,22 @@
-### Hi there 👋
+<div align="center">
 
-<!--
-**VictorPB/VictorPB** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Courgette&size=30&pause=300&color=FF715B&random=false&width=435&lines=Hi!+I'm+Victor+Perez+Barranco;Computer+Engineering+Student;Mention+in+Software+Engineering)](https://git.io/typing-svg)
 
-Here are some ideas to get you started:
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img src="" alt=Banner>
+
+## About Me 
+
+
+## Technologies
+<p align="center">
+
+  [![My Skills](https://skillicons.dev/icons?i=git,github,c,cpp,java,js,ts,html,css,php,py,androidstudio,dart,flutter,figma,vscode,linkedin,gmail,notion)](https://skillicons.dev)
+  
+</p>
+
+
+## Here are some of my statistics 🚀
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=VictorPB&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VictorPB&theme=tokyonight&layout=compact)
