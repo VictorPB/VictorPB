@@ -1,15 +1,19 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Courgette&size=30&pause=300&color=FF715B&random=false&width=435&lines=Hi!+I'm+Victor+Perez+Barranco;Computer+Engineering+Student;Mention+in+Software+Engineering)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Courgette&size=30&pause=300&color=008DD5&random=false&width=435&lines=Hi!+I'm+Victor+Perez+Barranco;Computer+Engineering+Student;Mention+in+Software+Engineering)](https://git.io/typing-svg)
 
 </div>
 
 <img src="" alt=Banner>
 
-## About Me 
+## About Me
 
+### Hobbies
+- :closed_book: :detective: Detective novel reader
+- :soccer: :softball: Sports player and organizer 
+- :video_game: :trophy: VideoGames player and organizer
 
-## Technologies
+## <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px>  Technologies 
 <p align="center">
 
   [![My Skills](https://skillicons.dev/icons?i=git "git")](https://skillicons.dev)
@@ -29,24 +33,21 @@
   [![My Skills](https://skillicons.dev/icons?i=vscode "VSCode")](https://skillicons.dev)
   [![My Skills](https://skillicons.dev/icons?i=figma "Figma")](https://skillicons.dev)
   [![My Skills](https://skillicons.dev/icons?i=notion "Notion")](https://skillicons.dev)
-
-
-  ,github,c,cpp,java,js,ts,html,css,php,py,androidstudio,dart,flutter,figma,vscode,linkedin,gmail,notion
+  [![My Skills](https://skillicons.dev/icons?i=latex "LaTeX")](https://skillicons.dev)
   
 </p>
 
-## 📬Contact Me
+## 📬 Contact Me
 <p align="center">
   <a href="www.linkedin.com/in/victorperezbarranco">
-    <img src="https://skillicons.dev/icons?i=linkedin" /> www.linkedin.com/in/victorperezbarranco
+    <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
-</p>
-<p align="center">
   <a href="mailto:victorperezbarrancodev@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" /> victorperezbarrancodev@gmail.com
+    <img src="https://skillicons.dev/icons?i=gmail" />
   </a>
 </p>
 
-## Here are some of my statistics 🚀
+
+## <img src = "https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width = 35px> GitHub Statistics 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=VictorPB&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VictorPB&theme=tokyonight&layout=compact)
