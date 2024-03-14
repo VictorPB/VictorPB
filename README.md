@@ -7,6 +7,11 @@
 <img src="" alt=Banner>
 
 ## About Me
+Hi, I'm Victor, I'm 22 years old and I'm studying Computer Engineering at the University of Granada. My passion is fullstack web and multiplatform development.
+
+- 👨‍🎓 I'm currently finishing my degree in computer engineering.
+- 💻:I’m working on personal projects learning flutter in my spare time.
+
 
 ### Hobbies
 - :closed_book: :detective: Detective novel reader
@@ -36,6 +41,10 @@
   [![My Skills](https://skillicons.dev/icons?i=latex "LaTeX")](https://skillicons.dev)
   
 </p>
+
+### Interesting Skills
+- 📑SCRUM and Jira.
+- 🧑‍🤝‍🧑Teamwork.
 
 ## 📬 Contact Me
 <p align="center">
