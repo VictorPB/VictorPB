@@ -4,39 +4,35 @@
 
 </div>
 
-<img src="" alt=Banner>
 
 ## About Me
 Hi, I'm Victor, I'm 22 years old and I'm studying Computer Engineering at the University of Granada. My passion is fullstack web and multiplatform development.
 
 - 👨‍🎓 I'm currently finishing my degree in computer engineering.
-- 💻:I’m working on personal projects learning flutter in my spare time.
+- 💻:I’m working on personal projects learning react in my spare time.
 
-
-### Hobbies
-- :closed_book: :detective: Detective novel reader
-- :soccer: :softball: Sports player and organizer 
-- :video_game: :trophy: VideoGames player and organizer
 
 ## <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px>  Technologies 
 <p align="center">
 
   [![My Skills](https://skillicons.dev/icons?i=git "git")](https://skillicons.dev)
   [![My Skills](https://skillicons.dev/icons?i=github "GitHub")](https://skillicons.dev)
-  [![My Skills](https://skillicons.dev/icons?i=c "C")](https://skillicons.dev)
-  [![My Skills](https://skillicons.dev/icons?i=cpp "C++")](https://skillicons.dev)
-  [![My Skills](https://skillicons.dev/icons?i=java "Java")](https://skillicons.dev)
   [![My Skills](https://skillicons.dev/icons?i=js "JavaScript")](https://skillicons.dev)
   [![My Skills](https://skillicons.dev/icons?i=ts "TypeScript")](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=react "React")](https://skillicons.dev)
   [![My Skills](https://skillicons.dev/icons?i=html "HTML")](https://skillicons.dev)
   [![My Skills](https://skillicons.dev/icons?i=css "CSS")](https://skillicons.dev)
   [![My Skills](https://skillicons.dev/icons?i=php "PHP")](https://skillicons.dev)
   [![My Skills](https://skillicons.dev/icons?i=py "Python")](https://skillicons.dev)
   [![My Skills](https://skillicons.dev/icons?i=dart "Dart")](https://skillicons.dev)
   [![My Skills](https://skillicons.dev/icons?i=flutter "Flutter")](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=c "C")](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=cpp "C++")](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=java "Java")](https://skillicons.dev)
   [![My Skills](https://skillicons.dev/icons?i=androidstudio "Android Studio")](https://skillicons.dev)
   [![My Skills](https://skillicons.dev/icons?i=vscode "VSCode")](https://skillicons.dev)
   [![My Skills](https://skillicons.dev/icons?i=figma "Figma")](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=linux "Linux")](https://skillicons.dev)
   [![My Skills](https://skillicons.dev/icons?i=notion "Notion")](https://skillicons.dev)
   [![My Skills](https://skillicons.dev/icons?i=latex "LaTeX")](https://skillicons.dev)
   
@@ -45,6 +41,12 @@ Hi, I'm Victor, I'm 22 years old and I'm studying Computer Engineering at the Un
 ### Interesting Skills
 - 📑SCRUM and Jira.
 - 🧑‍🤝‍🧑Teamwork.
+
+### Hobbies
+- :closed_book: :detective: Detective novel reader
+- :soccer: :softball: Sports player and organizer 
+- :video_game: :trophy: VideoGames player and organizer
+
 
 ## 📬 Contact Me
 <p align="center">
