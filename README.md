@@ -49,15 +49,10 @@ Hi, I'm Victor, I'm studying Computer Engineering at the University of Granada. 
 
 
 ## 📬 Contact Me
-
-  <a href="www.linkedin.com/in/victorperezbarranco">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
-  </a>
-  
-  <a href="mailto:victorperezbarrancodev@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" />
-  </a>
-
+<ul>
+   <li><a><img src="https://skillicons.dev/icons?i=linkedin" /> www.linkedin.com/in/victorperezbarranco </a></li>
+   <li><a><img src="https://skillicons.dev/icons?i=gmail" /> victorperezbarrancodev@gmail.com </a></li>
+</ul>
 
 
 ## <img src = "https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width = 35px> GitHub Statistics 
