@@ -6,7 +6,7 @@
 
 
 ## About Me
-Hi, I'm Victor, I'm 22 years old and I'm studying Computer Engineering at the University of Granada. My passion is fullstack web and multiplatform development.
+Hi, I'm Victor, I'm studying Computer Engineering at the University of Granada. My passion is fullstack web and multiplatform development.
 
 - 👨‍🎓 I'm currently finishing my degree in computer engineering.
 - 💻:I’m working on personal projects learning react in my spare time.
@@ -49,14 +49,15 @@ Hi, I'm Victor, I'm 22 years old and I'm studying Computer Engineering at the Un
 
 
 ## 📬 Contact Me
-<p align="center">
+
   <a href="www.linkedin.com/in/victorperezbarranco">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
+  
   <a href="mailto:victorperezbarrancodev@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" />
   </a>
-</p>
+
 
 
 ## <img src = "https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width = 35px> GitHub Statistics 
