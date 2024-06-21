@@ -19,6 +19,7 @@ Hi, I'm Victor, I'm studying Computer Engineering at the University of Granada. 
   [![My Skills](https://skillicons.dev/icons?i=github "GitHub")](https://skillicons.dev)
   [![My Skills](https://skillicons.dev/icons?i=js "JavaScript")](https://skillicons.dev)
   [![My Skills](https://skillicons.dev/icons?i=ts "TypeScript")](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=vue "Vue")](https://skillicons.dev)
   [![My Skills](https://skillicons.dev/icons?i=react "React")](https://skillicons.dev)
   [![My Skills](https://skillicons.dev/icons?i=html "HTML")](https://skillicons.dev)
   [![My Skills](https://skillicons.dev/icons?i=css "CSS")](https://skillicons.dev)
